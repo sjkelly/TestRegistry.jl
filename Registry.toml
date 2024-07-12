@@ -4,3 +4,4 @@ repo = "git@github.com:sjkelly/TestRegistry.jl.git"
 description = "My private registry"
 
 [packages]
+e6723b4c-ebff-59f1-b4b7-d97aa5274f73 = { name = "Meshing", path = "M/Meshing" }
